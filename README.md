@@ -2,7 +2,7 @@
 This takes a password that is x5 base64 encoded and string reversed.
 <br>
 <br>
-View dotnet fiddle link for example: https://dotnetfiddle.net/BIQQEZ
+View dotnet fiddle link for example: https://dotnetfiddle.net/OWzSEX
 <br>
 <br>
 Example output:
@@ -34,11 +34,15 @@ Sanitization step 15: VjJ0V2EySXlUa2hVV0d4cFUwaENjRll3WkRSTk1XUlhZVVU1YkdKV1JqVl
 Sanitization step 16: VjJ0V2EySXlUa2hVV0d4cFUwaENjRll3WkRSTk1XUlhZVVU1YkdKV1JqVlVNV2h6V1ZaR1ZVMUVhejA9<br>
 Sanitization step 17: VjJ0V2EySXlUa2hVV0d4cFUwaENjRll3WkRSTk1XUlhZVVU1YkdKV1JqVlVNV2h6V1ZaR1ZVMUVhejA9<br>
 sanitization complete: VjJ0V2EySXlUa2hVV0d4cFUwaENjRll3WkRSTk1XUlhZVVU1YkdKV1JqVlVNV2h6V1ZaR1ZVMUVhejA9<br>
+<br>
 Decoding pw: VjJ0V2EySXlUa2hVV0d4cFUwaENjRll3WkRSTk1XUlhZVVU1YkdKV1JqVlVNV2h6V1ZaR1ZVMUVhejA9<br>
-V2tWa2IyTkhUWGxpU0hCcFYwZDRNMWRXYUU5bGJWRjVUMWhzWVZGVU1Eaz0=<br>
-WkVkb2NHTXliSHBpV0d4M1dWaE9lbVF5T1hsYVFUMDk=<br>
-ZEdocGMybHpiWGx3WVhOemQyOXlaQT09<br>
-dGhpc2lzbXlwYXNzd29yZA==<br>
-thisismypassword<br>
+<br>
+Decode step 0: V2tWa2IyTkhUWGxpU0hCcFYwZDRNMWRXYUU5bGJWRjVUMWhzWVZGVU1Eaz0=<br>
+Decode step 1: WkVkb2NHTXliSHBpV0d4M1dWaE9lbVF5T1hsYVFUMDk=<br>
+Decode step 2: ZEdocGMybHpiWGx3WVhOemQyOXlaQT09<br>
+Decode step 3: dGhpc2lzbXlwYXNzd29yZA==<br>
+Decode step 4: thisismypassword<br>
+<br>
+password found: thisismypassword
 <br>
 password found: thisismypassword<br>

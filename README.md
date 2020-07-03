@@ -44,5 +44,3 @@ Decode step 3: dGhpc2lzbXlwYXNzd29yZA==<br>
 Decode step 4: thisismypassword<br>
 <br>
 password found: thisismypassword
-<br>
-password found: thisismypassword<br>

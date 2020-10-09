@@ -1,5 +1,5 @@
 # PasswordDeobfuscate
-This takes a password that is x5 base64 encoded and string reversed.
+This takes a password that is x5 base64 encoded and string reversed with random pipes between characters.
 <br>
 <br>
 View dotnet fiddle link for example: https://dotnetfiddle.net/bSIoEy
